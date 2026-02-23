@@ -1,0 +1,16 @@
+body{
+    background:black;
+    text-align:center;
+    color:white;
+    font-family:Arial;
+}
+
+.title{
+    margin-top:10px;
+}
+
+canvas{
+    border:3px solid gray;
+    background:url("assets/map.jpg");
+    background-size:cover;
+}
